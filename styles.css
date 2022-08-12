@@ -1,0 +1,7 @@
+input {
+    display:block;
+}
+
+input[type="submit"] {
+    background-color: rgb(0,200,0)
+}
